@@ -1,0 +1,7 @@
+Ground is 8 20x20 planes side by side
+
+sky box is very very simple and could be improved a lot
+
+To toggle the third person camera just uncomment the contents of ThirdPersonCamera()
+
+The random semi transparent box floating overhead represent where the 'sun' light source is positioned

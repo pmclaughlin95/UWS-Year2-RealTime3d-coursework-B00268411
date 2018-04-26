@@ -1,0 +1,36 @@
+﻿  main.cpp
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\boundingcircle.h(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  InputHandler.cpp
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\boundingcircle.h(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\inputhandler.cpp(17): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  Compiling...
+  world.cpp
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\boundingcircle.h(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(89): warning C4552: '-': operator has no effect; expected operator with side-effect
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(116): warning C4244: '=': conversion from 'GLuint' to 'float', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(135): warning C4244: '=': conversion from 'GLuint' to 'float', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(143): warning C4244: '=': conversion from 'GLuint' to 'float', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(303): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(314): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(325): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(336): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(347): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(359): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(375): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(419): warning C4244: 'argument': conversion from 'float' to 'const GLuint', possible loss of data
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(488): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(494): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(500): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Collectable.cpp
+  Generating Code...
+e:\realtime-3d\vs projects\3dproject collisions working\lab8base1617\md2 animation\sdl test\world.cpp(458): warning C4715: 'world::collisionTest': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  boundingBox.cpp
+  SDL Test.vcxproj -> E:\RealTime-3D\VS Projects\3Dproject Collisions working\lab8base1617\MD2 Animation\Debug\SDL Test.exe

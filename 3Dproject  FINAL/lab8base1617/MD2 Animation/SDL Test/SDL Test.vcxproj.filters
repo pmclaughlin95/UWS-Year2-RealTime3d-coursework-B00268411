@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="UtilityFiles">
+      <UniqueIdentifier>{444827c7-4e44-49cb-822b-273304310af1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="collisions">
+      <UniqueIdentifier>{1d5a6ed9-500d-4e88-896c-bc564e91e4c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Resource Files\Shaders">
+      <UniqueIdentifier>{341acee7-af65-4858-bb78-1d62deaf92a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rt3d.cpp">
+      <Filter>UtilityFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="rt3dObjLoader.cpp">
+      <Filter>UtilityFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="md2model.cpp">
+      <Filter>UtilityFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="InputHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collectable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rnd.cpp">
+      <Filter>UtilityFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="boundingBox.cpp">
+      <Filter>collisions</Filter>
+    </ClCompile>
+    <ClCompile Include="BoundingCircle.cpp">
+      <Filter>collisions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="world.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rt3dObjLoader.h">
+      <Filter>UtilityFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="rt3d.h">
+      <Filter>UtilityFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="md2model.h">
+      <Filter>UtilityFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="anorms.h">
+      <Filter>UtilityFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Rnd.h">
+      <Filter>UtilityFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="boundingBox.h">
+      <Filter>collisions</Filter>
+    </ClInclude>
+    <ClInclude Include="BoundingCircle.h">
+      <Filter>collisions</Filter>
+    </ClInclude>
+    <ClInclude Include="Collectable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="gouraud.vert">
+      <Filter>Header Files\Resource Files\Shaders</Filter>
+    </None>
+    <None Include="phong.frag">
+      <Filter>Header Files\Resource Files\Shaders</Filter>
+    </None>
+    <None Include="phong.vert">
+      <Filter>Header Files\Resource Files\Shaders</Filter>
+    </None>
+    <None Include="phong-tex.frag">
+      <Filter>Header Files\Resource Files\Shaders</Filter>
+    </None>
+    <None Include="phong-tex.vert">
+      <Filter>Header Files\Resource Files\Shaders</Filter>
+    </None>
+    <None Include="simple.frag">
+      <Filter>Header Files\Resource Files\Shaders</Filter>
+    </None>
+    <None Include="textured.frag">
+      <Filter>UtilityFiles</Filter>
+    </None>
+    <None Include="textured.vert">
+      <Filter>UtilityFiles</Filter>
+    </None>
+  </ItemGroup>
+</Project>
